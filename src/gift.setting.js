@@ -38,5 +38,5 @@ export const gifts = [
   { key: 't', name: 'Dior星空套装', alias: 'Dior星空', image: '/images/5.png',  description: ' "百变唇妆，精美雕琢"' },
   { key: 'y', name: '1314红包', alias: '1314', image: '/images/6.png',  description: '“从今往后，我都会在你旁边”' },
   { key: 'u', name: 'UR购物券：¥1,000', alias: 'UR', image: '/images/7.png',  description: '“UR！买！”' },
-  { key: 'i', name: 'Dyson美发套装', alias: '戴森', image: '/images/8.png',  description: '"不同造型需求，全面满足"' },
+  { key: 'i', name: '运气不行，再来一次吧', alias: '没搞好，来过', image: '/images/8.png',  description: '"怎么回事，我礼物呢"' },
 ];
