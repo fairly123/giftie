@@ -33,7 +33,7 @@ export const homeConfig = {
 export const gifts = [
   { key: 'q', name: 'OLAY小白瓶', alias: 'OLAY小白瓶', image: '/images/1.png',  description: ' "抗糖小白瓶，让皮肤白里更透光" ' },
   { key: 'w', name: '冰感夏季防晒衣', alias: '防晒衣', image: '/images/2.png',  description: '“实用又百搭，再也不怕夏天晒黑~”' },
-  { key: 'e', name: '兰蔻小黑瓶套装', alias: '小黑瓶套装', image: '/images/3.png',  description: ' "强维稳，快修护"' },
+  { key: 'e', name: '夏季拼接甜美连衣裙', alias: '连衣裙', image: '/images/3.png',  description: ' "嫩嫩的，尊的很好看！"' },
   { key: 'r', name: '520红包', alias: '520', image: '/images/6.png',  description: '“想给你唱一百首情歌”' },
   { key: 't', name: 'Dior星空套装', alias: 'Dior星空', image: '/images/5.png',  description: ' "百变唇妆，精美雕琢"' },
   { key: 'y', name: '1314红包', alias: '1314', image: '/images/6.png',  description: '“从今往后，我都会在你旁边”' },
