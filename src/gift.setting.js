@@ -37,6 +37,6 @@ export const gifts = [
   { key: 'r', name: '520红包', alias: '520', image: '/images/6.png',  description: '“想给你唱一百首情歌”' },
   { key: 't', name: '10.2英寸 iPad', alias: 'iPad', image: '/images/5.png',  description: ' "实现用平板画画的梦想！"' },
   { key: 'y', name: '1314红包', alias: '1314', image: '/images/6.png',  description: '“从今往后，我都会在你旁边”' },
-  { key: 'u', name: '味全每日c葡萄汁：¥1,000', alias: '葡萄汁', image: '/images/7.png',  description: '“承包2022全年的葡萄汁，喝！”' },
+  { key: 'u', name: '味全每日c葡萄汁：全年', alias: '葡萄汁', image: '/images/7.png',  description: '“承包2022全年的葡萄汁，喝！”' },
   { key: 'i', name: '运气不行，再来一次吧', alias: '没搞好 来过', image: '/images/8.png',  description: '"怎么回事，我礼物呢"' },
 ];
