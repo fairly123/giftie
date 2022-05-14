@@ -32,7 +32,7 @@ export const homeConfig = {
 // name 是礼物的全称；alias 是礼物的简称（用来显示在抽奖方格里）
 export const gifts = [
   { key: 'q', name: 'OLAY小白瓶', alias: 'OLAY小白瓶', image: '/images/1.png',  description: ' "抗糖小白瓶，让皮肤白里更透光" ' },
-  { key: 'w', name: '腾讯视频终身VIP', alias: 'VIP', image: '/images/2.png',  description: '“为你承包一辈子的 VIP”' },
+  { key: 'w', name: '冰感夏季防晒衣', alias: '防晒衣', image: '/images/2.png',  description: '“实用又百搭，再也不怕夏天晒黑~”' },
   { key: 'e', name: '兰蔻小黑瓶套装', alias: '小黑瓶套装', image: '/images/3.png',  description: ' "强维稳，快修护"' },
   { key: 'r', name: '520红包', alias: '520', image: '/images/6.png',  description: '“想给你唱一百首情歌”' },
   { key: 't', name: 'Dior星空套装', alias: 'Dior星空', image: '/images/5.png',  description: ' "百变唇妆，精美雕琢"' },
